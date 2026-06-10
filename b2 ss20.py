@@ -33,7 +33,6 @@
 # Ví dụ Console:
 # Đang xử lý: ('Levi', 120, 2500)
 # Đang xử lý: ('SofM', 150)
-#
 # Sau đó chương trình báo lỗi.
 # -> Nhìn vào đây có thể nhanh chóng phát hiện
 #    hồ sơ của SofM bị thiếu dữ liệu.
